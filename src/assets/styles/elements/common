@@ -1,0 +1,27 @@
+.rcorners {
+  border-radius: 5px;
+  background: #73AD21;
+  padding: 10px;
+  width: 50px;
+  height: 50px;
+}
+
+.modal-row {
+  text-align: right;
+  margin-top: 10px;
+}
+.red {
+  color:red;
+}
+
+.green {
+  color: green;
+}
+
+.pos-center {
+  justify-content: center;
+}
+
+.margin-top-10 {
+  margin-top: 10px;
+}
