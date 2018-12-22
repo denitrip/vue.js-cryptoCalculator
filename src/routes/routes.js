@@ -23,6 +23,13 @@ const routes = [
     meta: {
       title: 'Owner contacts'
     }
+  },
+  {
+    path: '*',
+    component: E404,
+    meta: {
+      title: 'Page Not Found'
+    }
   }
 ]
 
